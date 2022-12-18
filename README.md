@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Deepak Katyal
+![](https://img.shields.io/badge/C%2B%2B-Lang-brightgreen)
+- 👋 Hi, I’m Deepak Katyal 
 - 👀 I’m interested in Software development and I'm DevOps Enthusiast
 - 🌱 I’m currently learning Frontend web development
 
